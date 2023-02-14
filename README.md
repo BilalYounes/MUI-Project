@@ -34,6 +34,6 @@
 
 <h3>Demo</h3>
 
-[https://bilalyounes.github.io/MUI-Project/](Preview)
+[Preview](https://bilalyounes.github.io/MUI-Project/)
 
 
