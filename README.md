@@ -34,6 +34,6 @@
 
 <h3>Demo</h3>
 
-<p><a href="[]">[Insert link text or image]</a></p>
+<p><a href="[https://bilalyounes.github.io/MUI-Project/]">[Preview]</a></p>
 
 
